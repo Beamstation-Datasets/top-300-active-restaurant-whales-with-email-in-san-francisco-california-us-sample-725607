@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
   "config_name": "Top 300 Active Restaurant Whales with Email in San Francisco, California, US",
-  "export_job_id": "e8be6ea4-a88f-4361-b781-17ba9bbb9475",
+  "export_job_id": "69d43f65-fd88-40eb-a2d6-3fe60b1b0fe0",
   "github_org": "Beamstation-Datasets",
   "id_short": 725607,
   "location_name": "San Francisco",
@@ -18,5 +18,5 @@
   "sample_sha256": "9b1704cab8d0794b1186d6cadec9f1b566fa90e605871aeaf5dee2025a93994b",
   "sample_size_bytes": 133632,
   "total_records": 300,
-  "updated_at": "2026-04-08T01:33:18.177049+00:00"
+  "updated_at": "2026-04-15T06:59:37.983520+00:00"
 }
