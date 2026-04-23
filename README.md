@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in San Francisco, California, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `725607` |
 | Location | San Francisco |
 | Category | Restaurants |
-| Full dataset size | 300 records |
-| Free sample size | 30 records (10.0%) |
-| Last export | 2026-04-15T06:59:37.983520+00:00 |
+| Full dataset size | 282 records |
+| Free sample size | 28 records (9.93%) |
+| Last export | 2026-04-22T13:12:06.371688+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-san-francisco-california-us-sample-725607/releases/download/sample-latest/beamstation_725607_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
