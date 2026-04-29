@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d29f73b7-8aa6-453f-85ba-76030ff8c1eb",
+  "export_job_id": "3c39713a-8f52-419b-9666-9141ecf2346e",
   "id_short": 725607,
-  "published_at": "2026-04-23T07:06:32Z",
+  "published_at": "2026-04-29T19:32:32Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-san-francisco-california-us-sample-725607",
   "sample_asset_name": "beamstation_725607_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/725607/beamstation_725607_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "a16cdac34b71706fbeb8a824d21e21bd81089c1463906f6aeedc90a7d2a8fb8b",
-  "sample_size_bytes": 121828,
-  "total_records": 282
+  "sample_records": 30,
+  "sample_sha256": "5bea92ae9f1e0677e7223c4fcb9887a053c26991c5db551ec15b98b4c1e724fa",
+  "sample_size_bytes": 137120,
+  "total_records": 300
 }
